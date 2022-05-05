@@ -1,3 +1,3 @@
 - Beschreibung: Schnelles Serialisierungsframework
-- Anwedungsfall: Big Data Verarbeitung
+- Anwendungsfall: Big Data Verarbeitung
 - Besonderheit: Schema wird in den Daten mit transportiert
