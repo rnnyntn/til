@@ -1,2 +1,0 @@
-- Ein klassiches Orgatool
-- Zusammenarbeit mehrerer Teams (verschiedener Abteilungen) zur Umsetzung eines Produktes (Marketing, Schulung, Doku, Features,...)
